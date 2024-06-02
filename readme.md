@@ -1,4 +1,3 @@
-
 Expense Management System using PHP & MySQL 
 
 Features:
@@ -12,3 +11,5 @@ Features:
 
 5. Reports
 6. Dashboard
+
+For managing the expenses.
