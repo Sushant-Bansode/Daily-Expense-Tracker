@@ -13,3 +13,4 @@ Features:
 6. Dashboard
 
 For managing the expenses.
+Having Various Features.
